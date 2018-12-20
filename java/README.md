@@ -1,0 +1,1 @@
+# Une génération spring friendly 
