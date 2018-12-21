@@ -23,7 +23,7 @@ deploy:
     provider: pages
     skip-cleanup: true
     local_dir: docs/.vuepress/dist
-    github-token: 9e94151797ae3c422b80b80c53e7e7c0bfa815cc
+    github-token: $GITHUB_TOKEN
     repo: akramus/blog
     keep-history: true
     target-branch: master
