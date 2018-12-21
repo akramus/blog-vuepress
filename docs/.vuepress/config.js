@@ -1,6 +1,6 @@
 module.exports = {
   title : 'Akram - blog',
-  base: '/docs',
+  base: '/blog/',
   description: 'Java,JEE,Spring boot,Rest,architecture,Docker,Kubernetes ',
   themeConfig  : {
     nav : [
